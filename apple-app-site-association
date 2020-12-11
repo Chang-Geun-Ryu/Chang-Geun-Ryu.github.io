@@ -1,18 +1,17 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "GZNB3YEQYA.com.coway.IOCarePoc" ],
-             "components": [
-               {
-                  "/": "*",
-                  "comment": "Matches any URL whose path starts with *"
-               }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "GZNB3YEQYA.com.coway.IOCarePoc" ]
-   }
+	"applinks": {
+		"details": [{
+			"appIDs": ["GZNB3YEQYA.com.coway.IOCarePoc"],
+			"components": [{
+				"/": "*",
+				"comment": "Matches any URL whose path starts with *"
+			}],
+			"defaults": {
+				"caseSensitive": false
+			}
+		}]
+	},
+	"webcredentials": {
+		"apps": ["GZNB3YEQYA.com.coway.IOCarePoc"]
+	}
 }
