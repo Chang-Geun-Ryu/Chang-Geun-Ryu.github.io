@@ -1,8 +1,7 @@
 {
 	"applinks": {
 		"details": [{
-			"appIDs": "GZNB3YEQYA.com.coway.IOCarePoc",
-			"paths": ["*"],
+			"appIDs": ["GZNB3YEQYA.com.coway.IOCarePoc"],
 			"components": [{
 				"/": "*",
 				"comment": "Matches any URL whose path starts with *"
