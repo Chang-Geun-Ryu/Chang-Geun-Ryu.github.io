@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.test.applinks",
+    "package_name": "com.coway.iocare.dev",
     "sha256_cert_fingerprints":
-    ["9F:31:E4:85:65:A9:D7:5C:52:C5:C5:08:14:2B:EF:FD:6B:60:F2:36:A7:CA:6D:29:9D:1E:F0:6C:AA:D3:E2:60"]
+    ["87:D8:B5:05:16:A0:F7:47:F4:B7:D2:71:1D:FA:AE:EE:E4:23:E8:B0:0D:66:73:EF:29:42:91:76:91:16:E8:5D"]
   }
 }]
